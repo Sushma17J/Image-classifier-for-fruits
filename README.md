@@ -17,3 +17,16 @@ Confusion matrix
 Feature importance
 
 Image prediction with confidence values
+
+## Features used
+RGB values
+
+Brightness
+
+Color contrast
+
+Red/Green ratio
+
+Red+Blue / Green ratio
+
+Color differences (R-G, G-B, R-B)
