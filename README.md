@@ -8,3 +8,12 @@ No deep learning or TensorFlow required!
 - Color features are extracted (RGB, brightness, contrast, color ratios).
 - A RandomForest classifier is trained on these features.
 - Synthetic fruit images are created and tested on the trained model.
+
+# Output
+Accuracy scores
+
+Confusion matrix
+
+Feature importance
+
+Image prediction with confidence values
