@@ -9,7 +9,7 @@ No deep learning or TensorFlow required!
 - A RandomForest classifier is trained on these features.
 - Synthetic fruit images are created and tested on the trained model.
 
-# Output
+## Output
 Accuracy scores
 
 Confusion matrix
